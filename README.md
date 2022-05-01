@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hassanhajji
-- 👀 I’m interested in Data Science and machine learning 
+- 👀 I’m interested in Data Science and Machine Learning 
 - 🌱 I’m currently learning a lot of new things
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 Please reach on :
